@@ -1,9 +1,6 @@
 # About me 👋
 
-
-**ZHSHOU/ZHSHOU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## self-introduction🥇
 
 - 🔭 I’m currently studying in fzu👨‍🎓
 - 🌱 I’m currently learning python🐍
@@ -13,4 +10,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 1905348599@qq.com
 - 😄 Pronouns: the world is my oyster😎
 - ⚡ Fun fact: ⚽
+
+
+  ## future outlook
+   Agility.
+   preference for further study📖
+   问我去和之，君行到自知
+  
 
