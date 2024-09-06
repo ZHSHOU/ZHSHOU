@@ -3,7 +3,7 @@
 ## self-introduction🥇
 
 - 🔭 I’m currently studying in fzu👨‍🎓
-- 🌱 I’m currently learning python🐍
+- 🌱 I’m currently learning python🐍deep learning🍁
 - 👯 I’m looking to collaborate on SE😧
 - 🤔 I’m looking for help with technical🎉🎉🎉
 - 💬 Ask me about c⭐
