@@ -15,6 +15,6 @@
   ## future outlook
    Agility.
    preference for further study📖
-   问我去和之，君行到自知
+   问我去何之，君行到自知
   
 
